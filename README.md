@@ -7,4 +7,6 @@ Dependencies:
 - pygmt
 - matplotlib
 - numpy
+- pandas
+- utm
 - [interparc.py](https://github.com/rsyi/python-lib/blob/master/interparc.py)
