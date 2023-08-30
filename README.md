@@ -7,6 +7,7 @@ Dependencies:
 - pygmt
 - matplotlib
 - numpy
+- SciPy
 - pandas
 - utm
 - [interparc.py](https://github.com/rsyi/python-lib/blob/master/interparc.py) $-$ in a Python 3-friendly syntax (fixed in my copy)
